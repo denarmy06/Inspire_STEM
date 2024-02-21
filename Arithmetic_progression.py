@@ -10,7 +10,7 @@ n = float(input("Enter the position of the term :"))
 sol = (a + (n - 1)*d) 
 sum = ((n/2)*((2*a) + ((n - 1) * d)))
 
-print("The value of the term is :",sol)
-print("The sum of the terms are :",sum)
+print("The value of the nth term is :",sol)
+print("The sum up to the nth terms is :",sum)
 
 
