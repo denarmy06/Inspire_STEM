@@ -7,7 +7,7 @@ a = float(input("Enter first term :"))
 d = float(input("Enter common difference :"))
 n = float(input("Enter the position of the term :"))
 
-sol = (a + (n - 1)*d) 
+nth_term = (a + (n - 1)*d) 
 sum = ((n/2)*((2*a) + ((n - 1) * d)))
 
 print("The value of the nth term is :",sol)
