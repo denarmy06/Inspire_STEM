@@ -7,9 +7,9 @@ a = float(input("Enter first term :"))
 r = float(input("Enter common ratio :"))
 n = float(input("Enter the position of the term :"))
 
-sol = (a * r**(n - 1))
+nth_term = (a * r**(n - 1))
 sum = ((a * (r**n - 1))/(r - 1))
 
-print("The value of the term is :",sol)
-print("The sum of the terms is :",sum)
+print("The value of the nth term is :",nth_term)
+print("The sum up to the nth terms is :",sum)
 
