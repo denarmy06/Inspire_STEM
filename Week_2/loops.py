@@ -19,5 +19,20 @@ for x in range(0,11):
     print(x**4)
 
 
+print("\n")
+
+# Code to print name 5 times
+
+for x in range(6):
+    print("Dennis")
+
+# Code for sum for first 20 numbers
+    
+   
+
+    
+    
+
+    
 
     

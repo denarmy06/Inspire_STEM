@@ -48,7 +48,29 @@ age = 30
 height = 1.2
 print("I am {0} years old and {1} meters tall ".format(age,height))
 
+# Formating a string = %s
+activity = "dancing"
+print("My hobby is %s"%(activity))
 
+# Print a float
+height = 1.23647465                   
+print("My height is %5.3f"%(height))
+
+# Print an integer = %d
+age = 31
+print("My age is %d"%(age))
+
+#print a character = %c
+
+
+name = "Dennis Muhami"                              
+print(len(name))                                          # Note ;common
+
+print(f"My full name is {name}")
+
+course = "Electrical"
+school = "Engineering"
+print("I am studying {course} in the school of {school}".format(course = "Medicine",school = "Human sciences"))
 
 
 

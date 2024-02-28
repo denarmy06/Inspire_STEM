@@ -1,12 +1,16 @@
-for i in range (1,10):
-    print(i, end = "\t")
+zeros = [0] * 5
+print(zeros)
 
+letters = ['a','b','c']
+print(letters)
+print("\n")
 
-for x in range (1,10):
-    print("\t")
-    print(x)
+combined = zeros + letters
+print(combined)
+print("\n")
 
-
+numbers = list(range(21))
+print(numbers)
 
 
 
