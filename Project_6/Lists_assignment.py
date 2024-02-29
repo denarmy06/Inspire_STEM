@@ -17,7 +17,7 @@ print(car["D.O.M"])
 print("\t")
 
 # Copy
-vehicle = car
+vehicle = car.copy()
 print(vehicle)
 
 
