@@ -6,7 +6,7 @@ print("    2. SUBTRACTION")
 print("    3. MULTIPLICATION")
 print("    4. DIVISION")
 
-operation = input()
+operation = input("Select the operation :")
 
 if operation == "1":
     num_1 = input("Enter first number :")
