@@ -1,0 +1,39 @@
+
+.header-1{color: chartreuse;}
+.img{
+    height: 40cm;
+    width: 40cm;
+}
+
+    
+.ball{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}      
+
+#Bouncing{
+    position: absolute;
+}
+
+.hello{
+    margin: 100px;
+    padding: 50px;
+
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
